@@ -1,0 +1,476 @@
+@charset "utf-8";
+/* CSS Document */
+    
+/* MAIN */
+
+.buttonmain {
+ background:linear-gradient(90deg, rgb(132,94,194), rgb(30,186,175), rgb(185,249,235)) ;
+  border-radius: 25px;
+  color: #fff;
+  display: inline-block;
+  font-size: 0.75rem;
+  padding: 2px;
+  text-decoration: none;
+  position: absolute;
+  margin: 0 auto;
+   top: 60%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%) 
+}
+.buttonmain span {
+  background: #131313;
+  display: block;
+  width: 100px;
+  text-align: center;
+    padding: 15px ;
+  font-family: 'Montserrat', sans-serif;
+
+  border-radius: 25px;
+}
+
+.buttonmain span:hover {
+ 
+}
+
+
+/* END MAIN */
+
+
+/* lab */
+
+.buttonkeeup {
+  background:linear-gradient(90deg, #49b5ae , #597fe0, #d17047) ;
+  border-radius: 25px;
+  color: #fff;
+  display: inline-block;
+  font-size: 0.75rem;
+  padding: 2px;
+  text-decoration: none;
+  position: absolute;
+  margin: 0 auto;
+  top: 60%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%) 
+}
+.buttonkeeup span {
+  background: #131313;
+  display: block;
+  width: 100px;
+  text-align: center;
+    padding: 15px ;
+  font-family: 'Montserrat', sans-serif;
+
+  border-radius: 25px;
+}
+
+.buttonkeeup span:hover {
+ 
+}
+
+
+/* END lab */
+
+
+
+/* orange */
+
+.buttonorange {
+  background:linear-gradient(90deg, rgb(239, 120, 57), rgb(245, 158, 53)) ;
+  border-radius: 25px;
+  color: #fff;
+  display: inline-block;
+  font-size: 0.75rem;
+  padding: 2px;
+  text-decoration: none;
+  position: absolute;
+  margin: 0 auto;
+   top: 60%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%) 
+}
+.buttonorange span {
+  background: #131313;
+  display: block;
+  width: 100px;
+  text-align: center;
+    padding: 15px ;
+  font-family: 'Montserrat', sans-serif;
+
+  border-radius: 25px;
+}
+
+.buttonorange span:hover {
+ 
+}
+
+
+/* END orange */
+
+
+
+/* RED */
+
+.buttonquetickets {
+  background:linear-gradient(90deg, #2396a7, #69c3c8) ;
+  border-radius: 25px;
+  color: #fff;
+  display: inline-block;
+  font-size: 0.75rem;
+  padding: 2px;
+  text-decoration: none;
+  position: absolute;
+  margin: 0 auto;
+    top: 60%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%) 
+}
+.buttonquetickets span {
+  background: #131313;
+  display: block;
+  width: 100px;
+  text-align: center;
+    padding: 15px ;
+  font-family: 'Montserrat', sans-serif;
+
+  border-radius: 25px;
+}
+
+.buttonquetickets span:hover {
+ 
+}
+
+
+/* END RED */
+
+
+/* CRANE */
+
+.button_cheveux {
+  background:linear-gradient(90deg, #f7a80c, #9db328) ;
+  border-radius: 25px;
+  color: #fff;
+  display: inline-block;
+  font-size: 0.75rem;
+  padding: 2px;
+  text-decoration: none;
+  position: absolute;
+  margin: 0 auto;
+  top: 60%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%) 
+}
+
+
+.button_cheveux span {
+  background: #131313;
+  display: block;
+  width: 100px;
+  text-align: center;
+    padding: 15px ;
+  font-family: 'Montserrat', sans-serif;
+
+  border-radius: 25px;
+}
+
+.button_cheveux span:hover {
+
+}
+
+
+/* END CRANE */
+
+
+
+
+/* CRANE */
+
+.button_huga {
+  background:linear-gradient(90deg, rgb(250, 58, 249), rgb(96, 92, 191)) ;
+  border-radius: 25px;
+  color: #fff;
+  display: inline-block;
+  font-size: 0.75rem;
+  padding: 2px;
+  text-decoration: none;
+  position: absolute;
+  margin: 0 auto;
+ top: 70%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%) 
+}
+.button_huga span {
+  background: #131313;
+  display: block;
+  width: 100px;
+  text-align: center;
+    padding: 15px ;
+  font-family: 'Montserrat', sans-serif;
+
+  border-radius: 25px;
+}
+
+.button_huga span:hover {
+
+}
+
+
+
+
+
+@media only screen and (max-width: 375px) {
+
+
+
+
+
+.buttonmain {
+ background:linear-gradient(90deg, rgb(132,94,194), rgb(30,186,175), rgb(185,249,235)) ;
+  border-radius: 25px;
+  color: #fff;
+  display: inline-block;
+  font-size: 0.75rem;
+  padding: 2px;
+  text-decoration: none;
+  position: absolute;
+  margin: 0 auto;
+   top: 60%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%) 
+}
+.buttonmain span {
+  background: #131313;
+  display: block;
+  width: 100px;
+  text-align: center;
+    padding: 15px ;
+  font-family: 'Montserrat', sans-serif;
+
+  border-radius: 25px;
+}
+
+.buttonmain span:hover {
+ 
+}
+
+
+/* END MAIN */
+
+
+/* lab */
+
+.buttonkeeup {
+  background:linear-gradient(90deg, #49b5ae , #597fe0, #d17047) ;
+  border-radius: 25px;
+  color: #fff;
+  display: inline-block;
+  font-size: 0.75rem;
+  padding: 2px;
+  text-decoration: none;
+  position: absolute;
+  margin: 0 auto;
+  top: 60%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%) 
+}
+.buttonkeeup span {
+  background: #131313;
+  display: block;
+  width: 100px;
+  text-align: center;
+    padding: 15px ;
+  font-family: 'Montserrat', sans-serif;
+
+  border-radius: 25px;
+}
+
+.buttonkeeup span:hover {
+ 
+}
+
+
+/* END lab */
+
+
+
+/* orange */
+
+.buttonorange {
+  background:linear-gradient(90deg, rgb(239, 120, 57), rgb(245, 158, 53)) ;
+  border-radius: 25px;
+  color: #fff;
+  display: inline-block;
+  font-size: 0.75rem;
+  padding: 2px;
+  text-decoration: none;
+  position: absolute;
+  margin: 0 auto;
+   top: 100%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%) 
+}
+.buttonorange span {
+  background: #131313;
+  display: block;
+  width: 100px;
+  text-align: center;
+    padding: 15px ;
+  font-family: 'Montserrat', sans-serif;
+
+  border-radius: 25px;
+}
+
+.buttonorange span:hover {
+ 
+}
+
+
+/* END orange */
+
+
+
+/* RED */
+
+.buttonquetickets {
+  background:linear-gradient(90deg, #2396a7, #69c3c8) ;
+  border-radius: 25px;
+  color: #fff;
+  display: inline-block;
+  font-size: 0.75rem;
+  padding: 2px;
+  text-decoration: none;
+  position: absolute;
+  margin: 0 auto;
+    top: 60%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%) 
+}
+.buttonquetickets span {
+  background: #131313;
+  display: block;
+  width: 100px;
+  text-align: center;
+    padding: 15px ;
+  font-family: 'Montserrat', sans-serif;
+
+  border-radius: 25px;
+}
+
+.buttonquetickets span:hover {
+ 
+}
+
+
+/* END RED */
+
+
+/* CRANE */
+
+.button_cheveux {
+  background:linear-gradient(90deg, #f7a80c, #9db328) ;
+  border-radius: 25px;
+  color: #fff;
+  display: inline-block;
+  font-size: 0.75rem;
+  padding: 2px;
+  text-decoration: none;
+  position: absolute;
+  margin: 0 auto;
+  top: 90%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%) 
+}
+
+
+.button_cheveux span {
+  background: #131313;
+  display: block;
+  width: 100px;
+  text-align: center;
+    padding: 15px ;
+  font-family: 'Montserrat', sans-serif;
+
+  border-radius: 25px;
+}
+
+.button_cheveux span:hover {
+
+}
+
+
+/* END CRANE */
+
+
+
+
+/* CRANE */
+
+.button_huga {
+  background:linear-gradient(90deg, rgb(250, 58, 249), rgb(96, 92, 191)) ;
+  border-radius: 25px;
+  color: #fff;
+  display: inline-block;
+  font-size: 0.75rem;
+  padding: 2px;
+  text-decoration: none;
+  position: absolute;
+  margin: 0 auto;
+ top: 70%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%) 
+}
+.button_huga span {
+  background: #131313;
+  display: block;
+  width: 100px;
+  text-align: center;
+    padding: 15px ;
+  font-family: 'Montserrat', sans-serif;
+
+  border-radius: 25px;
+}
+
+.button_huga span:hover {
+
+}
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* END CRANE */
+
+
+
+
+/* SPARTANS */
+
+
+
+/* END CRANE */

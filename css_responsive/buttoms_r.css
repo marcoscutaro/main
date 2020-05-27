@@ -1,0 +1,267 @@
+@charset "utf-8";
+/* CSS Document */
+    
+/* MAIN */
+
+.buttonmain {
+ background:linear-gradient(90deg, rgb(132,94,194), rgb(30,186,175), rgb(185,249,235)) ;
+  border-radius: 25px;
+  color: #fff;
+  display: inline-block;
+  font-size: 0.75rem;
+  padding: 2px;
+  text-decoration: none;
+  position: absolute;
+  margin: 0 auto;
+  top: 76%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%) 
+}
+.buttonmain span {
+  background: #131313;
+  display: block;
+  width: 100px;
+  text-align: center;
+    padding: 15px ;
+  font-family: 'Montserrat', sans-serif;
+
+  border-radius: 25px;
+}
+
+.buttonmain span:hover {
+ 
+}
+
+
+/* END MAIN */
+
+
+/* lab */
+
+.buttonlab {
+  background:linear-gradient(90deg, #ea6826 , #54c6e6, #ea3f5a,#bd75f4) ;
+  border-radius: 25px;
+  color: #fff;
+  display: inline-block;
+  font-size: 0.75rem;
+  padding: 2px;
+  text-decoration: none;
+  position: absolute;
+  margin: 0 auto;
+  top: 70%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%) 
+}
+.buttonlab span {
+  background: #131313;
+  display: block;
+  width: 100px;
+  text-align: center;
+    padding: 15px ;
+  font-family: 'Montserrat', sans-serif;
+
+  border-radius: 25px;
+}
+
+.buttonlab span:hover {
+ 
+}
+
+
+/* END lab */
+
+
+
+/* orange */
+
+.buttonorange {
+  background:linear-gradient(90deg, rgb(239, 120, 57), rgb(245, 158, 53)) ;
+  border-radius: 25px;
+  color: #fff;
+  display: inline-block;
+  font-size: 0.75rem;
+  padding: 2px;
+  text-decoration: none;
+  position: absolute;
+  margin: 0 auto;
+ top: 76%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%) 
+}
+.buttonorange span {
+  background: #131313;
+  display: block;
+  width: 100px;
+  text-align: center;
+    padding: 15px ;
+  font-family: 'Montserrat', sans-serif;
+
+  border-radius: 25px;
+}
+
+.buttonorange span:hover {
+ 
+}
+
+
+/* END orange */
+
+
+
+/* RED */
+
+.buttonred {
+  background:linear-gradient(90deg, rgb(90, 0, 0), rgb(209, 9, 9)) ;
+  border-radius: 25px;
+  color: #fff;
+  display: inline-block;
+  font-size: 0.75rem;
+  padding: 2px;
+  text-decoration: none;
+  position: absolute;
+  margin: 0 auto;
+   top: 70%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%) 
+}
+.buttonred span {
+  background: #131313;
+  display: block;
+  width: 100px;
+  text-align: center;
+    padding: 15px ;
+  font-family: 'Montserrat', sans-serif;
+
+  border-radius: 25px;
+}
+
+.buttonred span:hover {
+ 
+}
+
+
+/* END RED */
+
+
+/* CRANE */
+
+.button_crane {
+  background:linear-gradient(90deg, rgb(131, 95, 194), rgb(10, 201, 168)) ;
+  border-radius: 25px;
+  color: #fff;
+  display: inline-block;
+  font-size: 0.75rem;
+  padding: 2px;
+  text-decoration: none;
+  position: absolute;
+  margin: 0 auto;
+  top: 70%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%) 
+}
+
+
+.button_crane span {
+  background: #131313;
+  display: block;
+  width: 100px;
+  text-align: center;
+    padding: 15px ;
+  font-family: 'Montserrat', sans-serif;
+
+  border-radius: 25px;
+}
+
+.button_crane span:hover {
+
+}
+
+
+/* END CRANE */
+
+/* coffee */
+
+.button_coffee {
+  background:linear-gradient(90deg, rgb(254, 160, 93), rgb(252, 252, 184)) ;
+  border-radius: 25px;
+  color: #fff;
+  display: inline-block;
+  font-size: 0.75rem;
+  padding: 2px;
+  text-decoration: none;
+  position: absolute;
+  margin: 0 auto;
+   top: 70%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%) 
+}
+.button_coffee span {
+  background: #131313;
+  display: block;
+  width: 100px;
+  text-align: center;
+    padding: 15px ;
+  font-family: 'Montserrat', sans-serif;
+
+  border-radius: 25px;
+}
+
+.button_coffee span:hover {
+  
+  
+}
+
+
+/* END COFFEE */
+
+
+
+/* CRANE */
+
+.button_huga {
+  background:linear-gradient(90deg, rgb(250, 58, 249), rgb(96, 92, 191)) ;
+  border-radius: 25px;
+  color: #fff;
+  display: inline-block;
+  font-size: 0.75rem;
+  padding: 2px;
+  text-decoration: none;
+  position: absolute;
+  margin: 0 auto;
+ top: 70%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%) 
+}
+.button_huga span {
+  background: #131313;
+  display: block;
+  width: 100px;
+  text-align: center;
+    padding: 15px ;
+  font-family: 'Montserrat', sans-serif;
+
+  border-radius: 25px;
+}
+
+.button_huga span:hover {
+
+}
+
+
+/* END CRANE */
+
+
+
+
+/* SPARTANS */
+
+
+
+/* END CRANE */

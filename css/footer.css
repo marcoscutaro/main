@@ -1,0 +1,308 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.footer {
+    
+    background: #000;
+    width: 100%;
+    height: 200px;
+    float: left;
+   
+}
+
+.center_footer{
+    width: 1280px;
+    height: 200px;
+    margin: 0 auto;
+}
+
+.margintop_footer{
+    
+    width: 100%;
+    height: 50px;
+    float: left;
+}
+
+
+.h3_container{
+    
+    width: auto;
+    height: auto;
+    padding: 2% 0 0 15%;
+    float: left;
+}
+
+h3 {
+   	font-family: 'Montserrat', sans-serif;
+    font-weight: 200;
+    text-align: center;
+    color: #fff;
+    font-size: 2em;
+    
+}
+
+
+
+.social_media{
+    
+    
+    height: auto;
+    padding: 4%;
+    float: left;
+    
+}
+
+
+.social_media_coontainer{
+    height: 50%;
+    width: 145px;
+    float: right;
+    padding: 2% 0 0 0;
+}
+
+
+.namebox{
+    
+    font-family: 'Montserrat', sans-serif;
+    width: 100%;
+    float: left;
+    margin-top: 6%;
+}
+
+.name{
+    
+    color: #fff;
+    width: auto;
+    height: auto;
+   margin: auto;
+    text-align: center;
+  
+}
+
+.menu_footer{
+    color: #fff;
+    float: left;
+    
+}
+
+.ul_footer{
+    text-align: center;
+    
+}
+
+
+.ul_footer ul{
+    
+    
+}
+
+.ul_footer li {
+     list-style: none;  
+   float:  left;
+    padding: 5px;
+  
+}
+
+
+.ul_footer a {
+    color: #fff;
+     text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 0.7em;
+}
+
+
+.ul_footer a:hover {
+    
+    color: #1ebaaf;
+    transition: 1.5s ease-in-out;
+   
+   
+
+}
+
+
+
+
+
+@media only screen and (max-width: 375px) {
+    
+    
+   
+    
+    .footer {
+    
+    background: #000;
+    width: 100%;
+    height: auto;
+    float: left;
+              margin-top: 0px;
+
+        padding: 0 0 50px 0;
+}
+
+.center_footer{
+    width: 300px;
+    height: 200px;
+    margin: 0 auto;
+}
+
+
+.margintop_footerlab{
+    
+    width: 100%;
+    margin-top: 1400px;
+    float: left;
+}
+
+
+.h3_container{
+    
+    width: auto;
+    height: auto;
+    padding: 2% 0 0 0;
+    float: left;
+}
+
+h3 {
+   	font-family: 'Montserrat', sans-serif;
+    font-weight: 200;
+    text-align: center;
+    color: #fff;
+    font-size: 1.5em;
+    
+}
+
+
+
+.social_media{
+    
+    
+    height: auto;
+    padding: 4%;
+    float: left;
+    
+}
+
+    .center_social_icons{
+        
+        width: 42%;
+        height: 50px;
+        margin: 0 auto;
+        
+    }
+    
+    
+    
+    
+.social_media_coontainer{
+   
+    width: 150px;
+    padding: 2% 0 0 0;
+    margin: 0;
+}
+
+
+.namebox{
+    
+    font-family: 'Montserrat', sans-serif;
+    width: 100%;
+    float: left;
+    margin-top: 6%;
+}
+
+.name{
+    
+    color: #fff;
+    width: auto;
+    height: auto;
+   margin: auto;
+    text-align: center;
+  
+}
+
+.menu_footer{
+    color: #fff;
+    width: 100%;;
+  
+    
+}
+    
+    .center_ul{
+        
+        width: 240px;
+        margin: 0 auto;
+        height: 50px;
+        padding: 10px 0 10px 0;
+    }
+
+.ul_footer{
+     width: 250px;
+    margin: 0 auto;
+    height: 30px;
+    
+}
+
+
+.ul_footer ul{
+    
+    
+}
+
+.ul_footer li {
+     list-style: none;  
+   float:  left;
+    padding: 5px;
+  
+}
+
+
+.ul_footer a {
+    color: #fff;
+     text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 0.7em;
+}
+
+
+.ul_footer a:hover {
+    
+    color: #1ebaaf;
+    transition: 1.5s ease-in-out;
+   
+   
+
+}
+    
+    .socialmedia_margin{
+        margin: 0 auto;
+        width: 50%;
+       
+    }
+
+.margin_footer {
+    
+      margin-top: 200px;
+}
+
+
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

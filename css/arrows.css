@@ -1,0 +1,217 @@
+
+/* ARROW red*/
+.arrow_bg_red {
+    
+    width: 20px;
+    height: 20px;
+}
+
+.arrow_bg_red a{
+    
+    padding: 5%;
+    opacity: 0%;
+}
+
+.arrow_red{
+    position: absolute;
+    top: 185%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.arrow_red span{
+    display: block;
+    width: 20px;
+    height: 20px;
+   
+     border-image: #00d8eb;
+    border-bottom: 5px solid;
+    border-right: 5px solid;
+    border-image: linear-gradient(90deg, rgb(175, 3, 3), rgb(71, 5, 5)) 1;
+    transform: rotate(45deg);
+    margin: -10px;
+    animation: animate 2s infinite;
+}
+.arrow_red span:nth-child(2){
+    animation-delay: -0.2s;
+}
+.arrow_red span:nth-child(3){
+    animation-delay: -0.4s;
+}
+@keyframes animate {
+    0%{
+        opacity: 0;
+        transform: rotate(45deg) translate(-20px,-20px);
+    }
+    50%{
+        opacity: 1;
+    }
+    100%{
+        opacity: 0;
+        transform: rotate(45deg) translate(20px,20px);
+    }
+}
+
+
+
+
+
+
+/* end of first part */
+
+/* ARROW red*/
+.arrow_bgred2 {
+    
+    width: 20px;
+    height: 20px;
+}
+
+.arrow_bgred2 a{
+    
+    padding: 5%;
+    opacity: 0%;
+}
+
+.arrowred2{
+    position: absolute;
+    top: 295%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.arrowred2 span{
+    display: block;
+    width: 20px;
+    height: 20px;
+   
+     border-image: #00d8eb;
+    border-bottom: 5px solid;
+    border-right: 5px solid;
+    border-image: linear-gradient(90deg, rgb(175, 3, 3), rgb(71, 5, 5)) 1;
+    transform: rotate(45deg);
+    margin: -10px;
+    animation: animate 2s infinite;
+}
+.arrowred2 span:nth-child(2){
+    animation-delay: -0.2s;
+}
+.arrowred2 span:nth-child(3){
+    animation-delay: -0.4s;
+}
+@keyframes animate {
+    0%{
+        opacity: 0;
+        transform: rotate(45deg) translate(-20px,-20px);
+    }
+    50%{
+        opacity: 1;
+    }
+    100%{
+        opacity: 0;
+        transform: rotate(45deg) translate(20px,20px);
+    }
+}
+
+
+
+
+
+
+/* end of first part */
+
+@media only screen and (max-width: 375px) {
+
+
+
+
+
+
+.arrow_bg_red {
+    
+    width: 20px;
+    height: 20px;
+}
+
+.arrow_bg_red a{
+    
+    padding: 5%;
+    opacity: 0%;
+}
+
+.arrow_red{
+    position: absolute;
+    top: 185%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.arrow_red span{
+    display: block;
+    width: 20px;
+    height: 20px;
+   
+     border-image:0 ;
+    border-bottom: 0px solid;
+    border-right: 0px solid;
+    border-image: none;
+    transform: rotate(45deg);
+    margin: -10px;
+    animation: animate 2s infinite;
+}
+.arrow_red span:nth-child(2){
+    animation-delay: -0.2s;
+}
+.arrow_red span:nth-child(3){
+    animation-delay: -0.4s;
+}
+
+
+
+
+
+/* end of first part */
+
+/* ARROW red*/
+.arrow_bgred2 {
+    
+    width: 20px;
+    height: 20px;
+}
+
+.arrow_bgred2 a{
+    
+    padding: 5%;
+    opacity: 0%;
+}
+
+.arrowred2{
+    position: absolute;
+    top: 295%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.arrowred2 span{
+    display: block;
+    width: 20px;
+    height: 20px;
+   
+     border-image: #00d8eb;
+     border-image:0 ;
+    border-bottom: 0px solid;
+    border-right: 0px solid;
+    border-image: none;
+    transform: rotate(45deg);
+    margin: -10px;
+    animation: animate 2s infinite;
+}
+.arrowred2 span:nth-child(2){
+    animation-delay: -0.2s;
+}
+.arrowred2 span:nth-child(3){
+    animation-delay: -0.4s;
+}
+
+
+
+
+
+
+
+}

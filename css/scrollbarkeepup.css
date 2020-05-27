@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* RED */
+::-webkit-scrollbar {
+    width: 3.5px;
+    background: #0c0c0c;
+    
+}
+ 
+/* Track*/
+::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3); 
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+   
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+    -webkit-border-radius: 1px;
+   
+    border-radius: 10px;
+   background: linear-gradient( #da7f59, #6b8be4, #5cc6b3);
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5); 
+}
+::-webkit-scrollbar-thumb:window-inactive {
+background: linear-gradient(#845ec2, #1ebaaf, #b9f9eb); 
+}
+/* END RED*/
+
+
+
+
+
