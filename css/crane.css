@@ -1323,7 +1323,7 @@ p {
 
 .menu-wrap .menu > div {
   background:#131313;
-  border-radius: 50%;
+  border-radius: 0%;
   width: 200vw;
   height: 200vw;
   display: flex;
