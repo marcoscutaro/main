@@ -1332,9 +1332,9 @@ p {
 
 .menu-wrap .menu > div {
   background:#131313;
-  border-radius: 50%;
-  width: 200vw;
-  height: 200vw;
+  border-radius: 0%;
+   width: 100%;
+  height: 100%;
   display: flex;
   flex: none;
   align-items: center;
