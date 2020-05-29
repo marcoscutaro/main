@@ -481,7 +481,7 @@ p {
     border-style: solid;
     border-bottom: none;
     border-top: none;
-    border-color: #f7a634;
+border-color: rgb(71,187,168);
     border-right-radius: 10%;
     border-right: 1px;
     padding-left: 10px;
@@ -995,13 +995,14 @@ p {
     border-style: solid;
     border-bottom: none;
     border-top: none;
-    border-color: #f7a634;
+    border-color: rgb(71,187,168);
     border-right-radius: 10%;
     border-right: 1px;
     padding-left: 10px;
     transition: 1s ease;
      
-	
+	  
+
 }
 
 .menu-wrap .menu > div > div > ul > li > a {
