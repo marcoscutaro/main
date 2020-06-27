@@ -336,7 +336,7 @@ p {
 
 .tittle_text{
 	
-	width: 300px;
+	width: 400px;
 	float: left;
 	height: auto;
     padding: 30% 0 0 28%;
@@ -345,9 +345,10 @@ p {
 
 .tittle_text_2{
 	
-	width: 300px;
+	width: 400px;
 	float: left;
 	height: auto;
+    text-align: left;
 	padding: 15% 0 0 8%;
 	
 }
