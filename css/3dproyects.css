@@ -713,11 +713,11 @@ p {
     
     
     
-    .front{
-    background: no-repeat;
-    height: 375px;
-    width: 100%;
-    background-size: cover;
+   .front{
+   background:  url("../img/images/images/3dprojects_bg_cell0001.png") no-repeat;
+    height: 100%;
+    width: 375px;
+    background-size:cover ;
 }
 
 
@@ -777,7 +777,7 @@ video {
 
 .text_title_container{
 	
-	padding:45% 0% 0% 0%; 
+	padding:175% 0% 0% 0%; 
 	
 	height: auto;
     
